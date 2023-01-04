@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "iPhone",
+        "price" : 233,
+        "feature" : true,
+        "company" : "Apple"
+    },
+    {
+        "name" : "Realme",
+        "price" : 2333,
+        "feature" : false,
+        "company" : "Realme"
+    },
+    {
+        "name" : "Samsung",
+        "price" : 2983,
+        "feature" : true,
+        "company" : "Samsung"
+    },
+    {
+        "name" : "Watch",
+        "price" : 23,
+        "company" : "Apple"
+    },
+    {
+        "name" : "Watch",
+        "price" : 23,
+        "feature" : false,
+        "company" : "Samsung"
+    }
+]
